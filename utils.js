@@ -13,7 +13,7 @@ const rftaon = (filePath) => {
 }
 
 const arrMax = (arr) => Math.max(...arr);
-const arrMin = (arr) => Math.max(...arr);
+const arrMin = (arr) => Math.min(...arr);
 const arrSortD = (arr) => arr.sort((a, b) => b - a)
 const arrSortA = (arr) => arr.sort((a, b) => a - b)
 
