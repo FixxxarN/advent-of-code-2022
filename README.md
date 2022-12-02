@@ -3,7 +3,10 @@
 <sub>**Global rank for day one:**\
 Part 1: 5092 | 9:27 minutes\
 Part 2: 4474 | 2:31 minutes</sub>
-- [ ] Day 2   
+- [x] Day 2\
+<sub>**Global rank for day one:**\
+Part 1: 8646 | 21:09 minutes\
+Part 2: 7227 | 6:11 minutes</sub>
 - [ ] Day 3   
 - [ ] Day 4   
 - [ ] Day 5   
