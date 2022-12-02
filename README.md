@@ -27,7 +27,9 @@
 - [ ] Day 24
 - [ ] Day 25
 </details>
+
 <hr>
+
 | Day | Rank part 1 | Time part 1 | Rank part 2 | Time part 2 | Performance | Reason
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 5092 | 9:27 minutes | 4474 | 2:31 minutes | OK / BAD | Didn't read the text correctly
