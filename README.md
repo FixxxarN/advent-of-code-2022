@@ -31,7 +31,7 @@
 <hr>
 
 | Day | Rank part 1 | Time part 1 | Rank part 2 | Time part 2 | Performance | Reason
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: | --- |
 | 1 | 5092 | 00:09:27 | 4474 | 00:02:31 | OK / BAD | Didn't read the text correctly
 | 2 | 8646 | 00:21:09 | 7227 | 00:06:11 | BAD | Woke up late, had no coffee and didn't read the text corretly
 | 3 | - | - | - | - | - | Didn't compete this day.
