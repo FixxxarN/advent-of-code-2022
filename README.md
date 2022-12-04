@@ -35,3 +35,4 @@
 | 1 | 5092 | 00:09:27 | 4474 | 00:02:31 | OK / BAD | Didn't read the text correctly
 | 2 | 8646 | 00:21:09 | 7227 | 00:06:11 | BAD | Woke up late, had no coffee and didn't read the text corretly
 | 3 | - | - | - | - | - | Didn't compete this day.
+| 4 | 17940 | 01:23:51 | 16970 | 01:26:00 | BAD | Joined array to string so 97 was "included" in the other string "6667686970"... Never test strings if they include each other
