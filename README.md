@@ -36,3 +36,4 @@
 | 2 | 8646 | 00:21:09 | 7227 | 00:06:11 | BAD | Woke up late, had no coffee and didn't read the text corretly
 | 3 | - | - | - | - | - | Didn't compete this day.
 | 4 | 17940 | 01:23:51 | 16970 | 00:02:09 | BAD | Did some major noob mistakes :D. Joined array to string so 97 was "included" in the other string "6667686970"... Never test strings if they include each other when working with multiple numbers. Didn't split on '-' so when i checked the strings i checked the first and last number so i missed quite a few numbers since 60-60 became 6-0... :DDD
+| 5 | 11762 | 01:02:48 | 10573 | 00:01:43 | GOOD | Felt good. Really nice exercise in my opinion movin crates from one stack to another. My solution might not be the best one but it was fun :)
